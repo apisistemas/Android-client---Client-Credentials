@@ -4,12 +4,12 @@
 Este projeto mostra a utilização do fluxo de autorização client credentials em uma aplicação Android.
 A aplicação possui a funcionalidade básica de buscar uma unidade/setor através do nome, parte do nome(setor ou unidade) ou sigla, e retornar o telefone desses locais. Além dessa funcionalidade básica, o usuário pode adicionar o número a agenda telefônica ou fazer uma ligação.
 
-## Credits
+## Créditos
 SINFO - Superintendência de Informática da UFRN
 
 OpenSIG - API de Serviços da UFRN
 
-## License
+## Licença
 Copyright 2015 OpenSIG
 
    Licensed under the Apache License, Version 2.0 (the "License");

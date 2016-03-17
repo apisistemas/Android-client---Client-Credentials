@@ -7,7 +7,7 @@ A aplicação possui a funcionalidade básica de buscar uma unidade/setor atrav�
 ## Créditos
 SINFO - Superintendência de Informática da UFRN
 
-OpenSIG - API de Serviços da UFRN
+API.sistemas - API de Serviços da UFRN
 
 ## Licença
 Copyright 2015 OpenSIG

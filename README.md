@@ -10,7 +10,7 @@ SINFO - Superintendência de Informática da UFRN
 API.sistemas - API de Serviços da UFRN
 
 ## Licença
-Copyright 2015 OpenSIG
+Copyright 2015 API.sistemas
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
